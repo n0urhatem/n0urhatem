@@ -34,9 +34,6 @@ I'm a **Computer Science & AI student** at Helwan University, passionate about t
   <a href="mailto:nour.hatem117@gmail.com">
     <img src="https://img.shields.io/badge/✉️_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/n0urhatem">
-    <img src="https://komarev.com/ghpvc/?username=n0urhatem&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
-  </a>
 </p>
 
 ## 💼 Expertise Areas
