@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/n0urhatem">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Hi+%F0%9F%91%8B+I'm+Nour+Hatem;Data+Scientist;ML+Engineer;Data+Analyst;AI+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Data+Scientist;ML+Engineer;Data+Analyst;AI+Enthusiast;" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,11 +14,11 @@ I'm a **Computer Science & AI student** at Helwan University, passionate about t
 **What drives me:** Leveraging cutting-edge Machine Learning and AI to create scalable solutions that make a measurable impact on businesses and society.
 
 **Current Focus:**
-- 🔭 Working on end-to-end ML pipelines and production-ready AI systems
-- 🌱 Diving deep into **Transformers**, **LLMs**, and **Generative AI**
-- 🤝 Open to collaborating on innovative **Data Science** and **AI** projects
-- 💬 Ask me about **Machine Learning**, **Data Analysis**, **Deep Learning**, or **MLOps**
-- ⚡ Fun fact: I believe every dataset has a story waiting to be told!
+- 🔭 Working on end-to-end Machine Learning projects and production-ready AI systems
+- 🌱 Deepening expertise in Data Analysis, Exploratory Data Analysis (EDA), and Model Evaluation
+- 🤝 Open to collaborating on impactful AI and Data Science projects
+- 💬 Ask me about Machine Learning, Deep Learning, Data Analysis, and MLOps
+- ♟️ Fun fact: My love for chess shapes how I approach data—strategically, step by step, to uncover the best moves hidden in the numbers
 
 <p align="center">
   <a href="https://nourhatem.netlify.app/" target="_blank">
@@ -34,7 +34,7 @@ I'm a **Computer Science & AI student** at Helwan University, passionate about t
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/n0urhatem">
-    <img src="https://komarev.com/ghpvc/?username=n0urhatem&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=n0urhatem&label=Profile%20Views&color=dark&style=for-the-badge" alt="Profile Views"/>
   </a>
 </p>
 
@@ -114,8 +114,8 @@ I'm a **Computer Science & AI student** at Helwan University, passionate about t
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n0urhatem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Nour's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0urhatem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=n0urhatem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Nour's GitHub Stats"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0urhatem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
