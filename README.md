@@ -6,8 +6,6 @@
 </a>
 </div>
 
----
-
 ## 🚀 About Me
 
 I'm a **Computer Science & AI student** at Helwan University, passionate about transforming data into actionable insights and building intelligent systems that solve real-world problems.
