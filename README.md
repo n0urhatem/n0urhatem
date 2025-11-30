@@ -1,7 +1,7 @@
 # Hi there, I'm Nour Hatem 👋
 
 <div align="center">
-<a href="https://github.com/n0urhatem">
+<a href="https://github.com/nour-hatem">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Data+Scientist;ML+Engineer;Data+Analyst;AI+Enthusiast;" alt="Typing SVG" />
 </a>
 </div>
@@ -124,36 +124,36 @@ I'm a **Computer Science & AI student** at Helwan University, passionate about t
 - Supervised learning-based classification of Alzheimer's disease with comprehensive model benchmarking
 - Feature analysis & extensive exploratory data analysis (EDA)
 - Multiple models evaluated for optimal performance
-- **[Repository](https://github.com/n0urhatem/Alzheimer-ML-Classifier)**
+- **[Repository](https://github.com/nour-hatem/Alzheimer-ML-Classifier)**
 
 ### 💳 ECommerce-SQL-Database-Analysis
 **Data Engineering | SQL | Analytics**
 - End-to-end data analysis project for e-commerce dataset
 - Built a database from scratch with a normalized schema
 - Complex SQL queries for business insights
-- **[Repository](https://github.com/n0urhatem/ECommerce-SQL-Database-Analysis)**
+- **[Repository](https://github.com/nour-hatem/ECommerce-SQL-Database-Analysis)**
 
 ### 🌸 FNP-Sales-Analysis
 **Business Intelligence | Excel | Dashboard**
 - Sales performance analysis dashboard for Ferns N Petals
 - Product sales, customer spending, and delivery efficiency insights
 - Peak occurrence patterns & seasonal trends
-- **[Repository](https://github.com/n0urhatem/FNP-Sales-Analysis)**
+- **[Repository](https://github.com/nour-hatem/FNP-Sales-Analysis)**
 
 ### ❤️ Heart-Disease-Prediction
 **Predictive Modeling | Streamlit Deployment | Production-Ready**
 - Complete data science pipeline with model evaluation
 - Multiple ML models benchmarked & optimized
 - Interactive Streamlit web app for real-time predictions
-- **[Repository](https://github.com/n0urhatem/Heart-Disease-Prediction)** | **[Live Demo](https://heart-disease-predictor.streamlit.app/)**
+- **[Repository](https://github.com/nour-hatem/Heart-Disease-Prediction)** | **[Live Demo](https://heart-disease-predictor.streamlit.app/)**
 
 --- -->
 
 ## 📈 GitHub Analytics
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=n0urhatem&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=nour-hatem&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
 <img 
-    src="https://github-readme-stats.vercel.app/api?username=n0urhatem&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=nour-hatem&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" 
     alt="Nour's GitHub Stats"
   />
 </div>
@@ -177,7 +177,7 @@ I'm actively looking for opportunities to:
 Feel free to reach out if you're interested in working together!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/n0urhatem/n0urhatem/output/snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/nour-hatem/nour-hatem/output/snake-dark.svg" alt="Snake Animation"/>
 </div>
 
 ### ✨ Thanks for visiting! Feel free to reach out and let's build something amazing together! ✨
